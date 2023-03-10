@@ -1,0 +1,330 @@
+/*Navigation Bar*/
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: gray;
+}
+
+.nav-con{
+    float: right;
+    width: 80%;
+    height: 70px;
+    margin-top: 9px;
+    padding-top: 12px;
+    padding-left: 812px;
+}
+
+.nav-con li{
+    text-align: center;
+    list-style: none;
+    float: left;
+    background-color: white;
+    height: 35px;
+    border-radius: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-top: 5px;
+}
+
+.nav-con li:hover{
+    background-color: #2f2f2f;
+    color: white;
+    cursor: pointer;
+}
+
+.logo{
+    padding-top: 20px;
+    text-align: center;
+    float: left;
+    padding-left: 190px;
+    color: White;
+}
+
+.active{
+    background-color: #2f2f2f !important;
+    color: white;
+}
+/*Navigation bar End*/
+/*Header*/
+
+header{
+    width: 100%;
+    height: 600px;
+    background-color: lightgrey;
+}
+
+header h3{
+    font-style: italic;
+    padding-left: 180px;
+    padding-top: 150px;
+}
+
+.indent{
+    height: 50px;
+    width: 680px;
+    text-align: left;
+    padding-left: 180px;
+}
+
+.par{
+    padding-left: 180px;
+    padding-top: 50px;
+}
+
+.duration{
+    padding-left: 180px;
+}
+
+.time{
+    padding-left: 180px;
+}
+
+/*Header End*/
+/*Section 1*/
+
+.col-12-text{
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    height: 100px;
+    padding-top: 25px;
+}
+
+/*Section 1 End*/
+/*Section 2*/
+.box{
+    background-color: lightgray;
+    height: 450px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-left: 100px;
+    padding-right: 100px;
+    float: left;
+    width: 80%;
+    border-radius: 1%;
+
+}
+
+.col-6text h2{
+
+    padding-top: 100px;
+    font-style: italic;
+
+}
+
+.Button-group{
+    height: 50px;
+    padding-bottom: 300px;
+}
+
+.button{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    padding-top: 8px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.normal{
+    cursor: pointer;
+    background-color: white;
+    color: #2b2b2b;
+    border: 2px solid #2b2b2b;
+    padding-top: 6px !important;
+}
+
+.normal:hover{
+    background-color: #2b2b2b;
+    cursor: pointer;
+    color: white;
+}
+
+.inverted{
+
+    border: 2px solid #2b2b2b;
+    color: #2b2b2b;
+    padding-top: 6px !important;
+}
+
+.layout{
+    background-color: white;
+    color: #2b2b2b;
+    text-align: center;
+}
+
+.col-round{
+    width: 180px;
+    height: 180px;
+    background-color: lightgray;
+    padding-top: 100px;
+    margin-top: 50px;
+    border-radius: 100%;
+    margin-left: 100px;
+}
+
+.col-3-text{
+    text-align: center;
+    padding-right: 80px;
+}
+
+footer{
+    background-color: rgb(66, 66, 66);
+    color: white;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+}
+.Here{
+    cursor: pointer;
+    color: white;
+    background-color: #2b2b2b;
+    border: 2px solid #2b2b2b;
+    padding-top: 6px !important;
+}
+
+.Here:hover{
+    background-color: white;
+    cursor: pointer;
+    color: #2b2b2b;
+}
+
+.button-two{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    padding-top: 8px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 110px;
+}
+.cards{
+    padding-top: 20px;
+}
+
+.indent-two{
+    height: 50px;
+    width: 800px;
+    text-align: left;
+    padding-left: 180px;
+}
+
+.col-box{
+    width: 80%;
+    height: 250px;
+    background-color: lightgray;
+    text-align: left;
+    padding-top: 100px;
+    margin-left: 50px;
+    margin-right: 150px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.col-box-text{
+    text-align: left;
+    margin-left: 50px;
+}
+.col-box-text-two{
+    margin-left: 50px;
+    text-align: left;
+    width: 50%;
+}
+.button-page-two{
+    width: 20%;
+    background-color: #2b2b2b;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    padding-top: 8px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 50px;
+}
+
+.button-page-two:hover{
+    background-color: white;
+    color: #2b2b2b;
+    cursor: pointer;
+}
+
+.another{
+    margin-top: 100px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    background-color: #2b2b2b;
+  }
+  
+  .box-two{
+    background-color: lightgray;
+    height: 450px;
+    border-radius: 1%;
+
+}
+
+.col-6-box{
+    width: 100%;
+    float: left;
+    background-color: #2b2b2b;
+    height: 100px;
+
+}
+
+.col-box-two{
+    width: 80%;
+    height: 300px;
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 50px;
+    border-radius: 1%;
+    margin-left: 100px;
+}
+.h3-text{
+    padding-left: 100px;
+    font-style: italic;
+}
+.p-text{
+    padding-left: 100px;
+    max-width: 600px;
+}
+.button-three{
+    background-color: #2b2b2b;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    padding-top: 8px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 50px;
+
+}
+.button-three-two{
+    padding-left: 50px;
+}
+
+.button-three:hover{
+    background-color: white;
+    color: #2b2b2b;
+    cursor: pointer;
+}
